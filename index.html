@@ -1,1 +1,183 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rafael Pérez - Portafolio</title>
+<style>
+  :root{
+    --bg-1:#050b18;
+    --bg-2:#0b1a33;
+    --bg-3:#122a4d;
+    --accent:#2f8dfa;
+    --accent-light:#7fc4ff;
+    --text-main:#f4f8ff;
+    --text-sub:#9db3d1;
+  }
 
+  *{ box-sizing:border-box; margin:0; padding:0; }
+
+  body{
+    font-family:-apple-system, 'Segoe UI', Roboto, Arial, sans-serif;
+    background: var(--bg-1);
+    color: var(--text-main);
+  }
+
+  .banner{
+    position:relative;
+    width:100%;
+    min-height:60vh;
+    background:
+      radial-gradient(1200px 700px at 50% 20%, var(--bg-3) 0%, transparent 60%),
+      linear-gradient(160deg, var(--bg-1) 0%, var(--bg-2) 55%, var(--bg-1) 100%);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    overflow:hidden;
+    padding:60px 20px;
+  }
+
+  .content{
+    position:relative;
+    z-index:2;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    text-align:center;
+    gap:22px;
+    max-width:900px;
+  }
+
+  .eyebrow{
+    font-size:14px;
+    font-weight:600;
+    letter-spacing:4px;
+    color:var(--accent-light);
+  }
+
+  h1{
+    font-weight:800;
+    font-size:clamp(40px, 8vw, 84px);
+    line-height:1.05;
+    color:var(--text-main);
+    letter-spacing:-1px;
+  }
+  h1 .last{ color:var(--accent); }
+
+  .subtitle{
+    font-size:clamp(15px, 2vw, 20px);
+    font-weight:500;
+    color:var(--text-sub);
+    line-height:1.5;
+  }
+
+  .stack{
+    display:flex;
+    align-items:center;
+    flex-wrap:wrap;
+    justify-content:center;
+    margin-top:14px;
+  }
+
+  .stack-item{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    margin:8px 20px;
+  }
+
+  .stack-item .icon{
+    width:52px; height:52px;
+    display:flex; align-items:center; justify-content:center;
+    border-radius:14px;
+    margin-bottom:8px;
+  }
+
+  .stack-item span{
+    font-size:15px;
+    font-weight:600;
+  }
+
+  section{
+    max-width:900px;
+    margin:0 auto;
+    padding:60px 20px;
+  }
+
+  section h2{
+    font-size:28px;
+    margin-bottom:16px;
+    color:var(--text-main);
+  }
+
+  section p{
+    color:var(--text-sub);
+    font-size:17px;
+    line-height:1.6;
+  }
+</style>
+</head>
+<body>
+
+  <div class="banner">
+    <div class="content">
+      <div class="eyebrow">BIENVENIDO A MI PORTAFOLIO</div>
+      <h1>Rafael <span class="last">Pérez</span></h1>
+      <div class="subtitle">
+        Analista de Datos — convirtiendo datos en decisiones a través de la analítica y la tecnología.
+      </div>
+
+      <div class="stack">
+        <div class="stack-item">
+          <div class="icon" style="background:#1d6f42">
+            <svg width="26" height="26" viewBox="0 0 24 24" fill="none">
+              <path d="M6 6L18 18M18 6L6 18" stroke="white" stroke-width="2.4" stroke-linecap="round"/>
+            </svg>
+          </div>
+          <span>Excel</span>
+        </div>
+        <div class="stack-item">
+          <div class="icon" style="background:#1470c4">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+              <ellipse cx="12" cy="6" rx="8" ry="3" fill="white" opacity="0.9"/>
+              <path d="M4 6v12c0 1.66 3.58 3 8 3s8-1.34 8-3V6" stroke="white" stroke-width="1.6" fill="none"/>
+              <path d="M4 12c0 1.66 3.58 3 8 3s8-1.34 8-3" stroke="white" stroke-width="1.6" fill="none"/>
+            </svg>
+          </div>
+          <span>SQL</span>
+        </div>
+        <div class="stack-item">
+          <div class="icon" style="background:linear-gradient(135deg,#f2c811,#e6a614)">
+            <svg width="24" height="24" viewBox="0 0 24 24">
+              <rect x="3"  y="12" width="4" height="9" rx="1" fill="#7a5b00"/>
+              <rect x="10" y="7"  width="4" height="14" rx="1" fill="#7a5b00"/>
+              <rect x="17" y="3"  width="4" height="18" rx="1" fill="#7a5b00"/>
+            </svg>
+          </div>
+          <span>Power BI</span>
+        </div>
+        <div class="stack-item">
+          <div class="icon" style="background:#1b2733">
+            <svg width="26" height="26" viewBox="0 0 24 24">
+              <path d="M12 2c-3 0-3.6 1.3-3.6 2.6v2.2h3.7v.6H5.9C4.3 7.4 3 8.8 3 11.6v.8c0 2.8 1.3 4.2 2.9 4.2h1.6v-2.3c0-1.9 1.6-3.5 3.5-3.5h4.4c1.6 0 2.9-1.3 2.9-2.9V4.6C18.3 3.3 17.5 2 14.5 2h-2.5z" fill="#3a7bbf"/>
+              <path d="M12 22c3 0 3.6-1.3 3.6-2.6v-2.2h-3.7v-.6h6.2c1.6 0 2.9-1.4 2.9-4.2v-.8c0-2.8-1.3-4.2-2.9-4.2h-1.6v2.3c0 1.9-1.6 3.5-3.5 3.5H8.6c-1.6 0-2.9 1.3-2.9 2.9v2.7c0 1.3.8 2.6 3.8 2.6H12z" fill="#ffd43b"/>
+            </svg>
+          </div>
+          <span>Python</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <section>
+    <h2>Sobre mí</h2>
+    <p>Aquí va tu descripción — quién eres, qué estudias, y qué te apasiona del mundo de los datos.</p>
+  </section>
+
+  <section>
+    <h2>Proyectos</h2>
+    <p>Aquí vas a ir agregando tus proyectos de SQL, Power BI y Python conforme los termines.</p>
+  </section>
+
+</body>
+</html>
