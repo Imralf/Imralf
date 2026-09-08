@@ -41,5 +41,5 @@ Impulsar mi transición hacia **Analista de Datos**, integrando mi experiencia e
 
 ## 📫 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-perez77)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Imralf)  
+🌐 [Resume/Portafolio](https://imralf.vercel.app) 
 📧 Email: imralf77@gmail.com
