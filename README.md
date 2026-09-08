@@ -12,12 +12,12 @@ Hoy estoy en transición hacia el mundo del **Data Analytics**, aplicando mis co
 ---
 
 ## 👔 Experiencia Profesional
-- **Analista de Compras (10+ años)**  
+- **Analista de Compras (10+ años)** ![Compras](https://img.shields.io/badge/Compras%20Estratégicas-4CAF50?style=for-the-badge&logo=business&logoColor=white)
   - Gestión de adquisiciones y contratos.  
   - Optimización de presupuestos y reducción de costos.  
   - Negociación con proveedores y análisis de tendencias de consumo.  
 
-- **Transición a Data Analytics**  
+- **Transición a Data Analytics**  ![Data Analytics](https://img.shields.io/badge/Data%20Analytics%20Transition-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
   - Uso de **SQL** para consultas y reportes.  
   - **Python (pandas, SQLAlchemy)** para limpieza y transformación de datos.  
   - **Power BI** y **Excel** para dashboards interactivos y reportes ejecutivos.  
@@ -31,7 +31,18 @@ Hoy estoy en transición hacia el mundo del **Data Analytics**, aplicando mis co
 - **Data Skills:** Limpieza de datos, ETL, consultas avanzadas, visualización  
 - **Soft Skills:** Comunicación global (EN, RU, FR), storytelling con datos, organización visual
 
+🛠️ Técnicos (Data & Herramientas)
+Python → ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+SQL (PostgreSQL/SQL Server) → ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+Power BI → ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+Excel → ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+VS Code → ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+Jupyter Notebook → ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ---
 
 ## 🎯 Objetivo Profesional
@@ -40,7 +51,7 @@ Impulsar mi transición hacia **Analista de Datos**, integrando mi experiencia e
 ---
 
 ## 📫 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-perez77)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-perez77)    
 [![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://imralf.verdel.app)  
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:imralf77@gmail.com)
-
