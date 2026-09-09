@@ -1,10 +1,9 @@
 # 🚀 De las compras estratégicas a los datos inteligentes
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 Soy **Rafael**, profesional con más de **10 años de experiencia como Analista de Compras**, liderando procesos de adquisición, negociación con proveedores y optimización de costos.  
 Hoy estoy en transición hacia el mundo del **Data Analytics**, aplicando mis conocimientos de negocio a la extracción, limpieza y visualización de datos para convertir información en decisiones estratégicas.
