@@ -40,6 +40,6 @@ Impulsar mi transición hacia **Analista de Datos**, integrando mi experiencia e
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-perez77)    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imralf)    
 [![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://imralf.verdel.app)  
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:imralf77@gmail.com)
