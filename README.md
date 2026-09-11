@@ -1,44 +1,21 @@
-# 🚀 De las compras estratégicas a los datos inteligentes
 
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rafael
+===============================================================================================================================
 
-Soy **Rafael**, profesional con más de **10 años de experiencia como Analista de Compras**, liderando procesos de adquisición, negociación con proveedores y optimización de costos.  
-Hoy estoy en transición hacia el mundo del **Data Analytics**, aplicando mis conocimientos de negocio a la extracción, limpieza y visualización de datos para convertir información en decisiones estratégicas.
+I'm currently focused on strengthening my technical skills through hands-on projects, continuous learning, and practical problem-solving.
 
----
+* 🌍  I'm based in Dominican Republic
+* ✉️  You can contact me at [imralf77@gmail.com](mailto:imralf77@gmail.com)
+* 🧠  I'm currently learning a new framework
+* 👥  I'm looking to collaborate on interesting projects
+* 💬  Ask me about I'm secretly spiderman... but don't tell anyone
 
-## 👔 Experiencia Profesional
-- **Analista de Compras (10+ años)** 
-  - Gestión de adquisiciones y contratos.  
-  - Optimización de presupuestos y reducción de costos.  
-  - Negociación con proveedores y análisis de tendencias de consumo.  
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
+</p>
 
-- **Transición a Data Analytics**  
-  - Uso de **SQL** para consultas y reportes.  
-  - **Python (pandas, SQLAlchemy)** para limpieza y transformación de datos.  
-  - **Power BI** y **Excel** para dashboards interactivos y reportes ejecutivos.  
-  - Proyectos de análisis aplicados a educación, finanzas y procesos operativos.
+### Socials
 
----
-
-## 🛠️ Habilidades Técnicas
-- **Lenguajes:** Python 🐍, SQL 🗄️  
-- **Herramientas:** Power BI 📊, Excel 📑, VS Code 💻, Jupyter Notebook 📓  
-- **Data Skills:** Limpieza de datos, ETL, consultas avanzadas, visualización  
-- **Soft Skills:** Comunicación global (EN, RU, FR), storytelling con datos, organización visual
-
----
-
-## 🎯 Objetivo Profesional
-Impulsar mi transición hacia **Analista de Datos**, integrando mi experiencia en compras y procesos operativos con herramientas modernas de análisis para generar insights que apoyen decisiones estratégicas en organizaciones.
-
----
-
-## 📫 Contacto
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imralf)    
-[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://imralf.verdel.app)  
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:imralf77@gmail.com)
+<p align="left"> <a href="https://www.github.com/Imralf" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/imralf" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<a href="https://www.github.com/Imralf" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Imralf?logo=github&style=for-the-badge&color=ef4444&labelColor=181824" /></a>
